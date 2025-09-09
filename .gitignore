@@ -1,10 +1,4 @@
 # Backend
-Backend/node_modules
-Backend/package-lock.json
-Backend/.env
 
 
 # Frontend
-frontend/node_modules
-frontend/package-lock.json
-frontend/build

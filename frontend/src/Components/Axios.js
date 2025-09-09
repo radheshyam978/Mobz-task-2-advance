@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 const instance = axios.create({
-baseURL: 'http://localhost:3500' || '/',
+baseURL: 'https://mobz-task-2-advance-1.onrender.com/' || '/',
 headers: { 'Content-Type': 'application/json' },
 });
 
